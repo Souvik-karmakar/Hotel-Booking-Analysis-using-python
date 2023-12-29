@@ -19,4 +19,20 @@ Details about the columns used in the study:-
 ![image](https://github.com/Souvik-karmakar/Hotel-Booking-Analysis-using-python/assets/78291973/9f06fa33-eb3f-46ac-89d2-f347bd946ef4)
 
 
+# Libraries Used:-
+
+1. NumPy
+2. Panda
+3. MatPlotlib
+4. Plotly
+5. Seaborn
+
+# Project Architecture:-
+
+![image](https://github.com/Souvik-karmakar/Hotel-Booking-Analysis-using-python/assets/78291973/e477f24f-17aa-4c09-8ce3-9ba7d46ce1a0)
+
+
+
+
+
 
