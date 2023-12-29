@@ -9,6 +9,8 @@ There are two different hotel types in our data study: resort hotels and city ho
 The goal of the analysis is to use the data to inform business decisions that will optimize the hotel's revenue and customer satisfaction. This may involve adjusting pricing strategies, improving product offerings, optimizing marketing and distribution channels, and developing more effective customer relationship management programs.
 
 Details about the columns used in the study:-
+
+
 ![image](https://github.com/Souvik-karmakar/Hotel-Booking-Analysis-using-python/assets/78291973/3b66ff2f-60a0-4c73-8ac7-38465b3eb229)
 
 
