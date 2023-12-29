@@ -16,4 +16,7 @@ Details about the columns used in the study:-
 
 ![image](https://github.com/Souvik-karmakar/Hotel-Booking-Analysis-using-python/assets/78291973/3b66ff2f-60a0-4c73-8ac7-38465b3eb229)
 
+![image](https://github.com/Souvik-karmakar/Hotel-Booking-Analysis-using-python/assets/78291973/9f06fa33-eb3f-46ac-89d2-f347bd946ef4)
+
+
 
