@@ -35,8 +35,6 @@ Details about the columns used in the study:-
 
 > Hotels with refund policies are more expensive than those without; the former are less expensive.
   
-> The majority of reservations are made by sporadic clientele.
-  
 > Transient customers cancel more frequently, although group booking results in fewer cancellations.
   
 > The majority of reservations and cancellations are handled by online and offline travel companies and tour operators.
