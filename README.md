@@ -1,6 +1,9 @@
 # Hotel-Booking-Analysis-using-python
 Capstone Project: Based on Exploratory Data Analysis
 
+# Dashboard Link:
+https://public.tableau.com/app/profile/souvik.karmakar/viz/HotelBookingAnalysisoverview/Dashboard1
+
 ![image](https://github.com/Souvik-karmakar/Hotel-Booking-Analysis-using-python/assets/78291973/2b6b6803-e0ba-4e77-a4dc-235b8c509a51)
 
 # Hotel Booking Analysis
